@@ -3,13 +3,14 @@ PowerCLI script to create the Role RightScaleRole and the minimum required permi
 
 Prerequisite
 -------------
-- 1. Powershell remote execution policy is enabled. Open a command prompt and type the following commands in sequence:
+- If running on Windows, set Powershell remote execution policy is enabled. Open a command prompt and type the following commands in sequence:
 
 `powershell <Enter>`
 `Set-ExecutionPolicy RemoteSigned <Enter>`
 `Exit <Enter>`
 
-2. Download vSphere PowerCLI from the Download page of the VMware Web site and install the vSphere PowerCLI software. This is also available for other platforms:
+- Download vSphere PowerCLI from the Download page of the VMware Web site and install the vSphere PowerCLI software. This is also available for other platforms:
+
 Powershell - https://github.com/PowerShell/PowerShell
 PowerCLI - https://labs.vmware.com/flings/powercli-core
 
