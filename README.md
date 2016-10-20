@@ -1,4 +1,4 @@
-PowerCLI script to create the Role RightScaleRole and the minimum required permissions for RCAV to work with vCenter. 
+PowerCLI script to create the Role RightScaleRole and the minimum permissions for RCAV to work with vCenter per the requirements in http://docs.rightscale.com/rcav/v2.0/rcav_prepare_vsphere_environment.html#vcenter-access-requirements-create-a-rightscale-role
 
 
 Prerequisite
