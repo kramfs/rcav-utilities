@@ -3,7 +3,7 @@ PowerCLI script to create the Role RightScaleRole and the minimum required permi
 
 Prerequisite
 -------------
-1. Powershell remote execution policy is enabled. Open a command prompt and type the following commands in sequence:
+- 1. Powershell remote execution policy is enabled. Open a command prompt and type the following commands in sequence:
 
 `powershell <Enter>`
 `Set-ExecutionPolicy RemoteSigned <Enter>`
