@@ -11,7 +11,7 @@ Prerequisite
 
 - Download vSphere PowerCLI from the Download page of the VMware Web site and install the vSphere PowerCLI software. This is also available for other platforms:
 
-Powershell - https://github.com/PowerShell/PowerShell
+<li> Powershell - https://github.com/PowerShell/PowerShell
 PowerCLI - https://labs.vmware.com/flings/powercli-core
 
 Usage
