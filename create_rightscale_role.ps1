@@ -11,7 +11,7 @@ param(
 clear-host
 
 # USAGE
-$usage = "Create_RightScale_Role.ps1 -vCenter vCenterFQDNorIP -Username RS_Accountt -Domain AuthenticationDomain"
+$usage = "Create_RightScale_Role.ps1 -vCenter vCenterFQDNorIP -Username account_to_add_to the_role -Domain AuthenticationDomain"
 $example = 'Create_RightScale_Role.ps1 -vCenter "vcenter.rightscale.local" -Username rightscale_user -Domain vsphere.local' 
 
 Write-Host "Create the RightScaleRole and add the minimum required permissions for RCAV to work with vCenter" -ForeGroundColor Cyan 
