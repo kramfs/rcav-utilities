@@ -9,9 +9,10 @@ If running on Windows, set Powershell remote execution policy is enabled. Open a
 Set-ExecutionPolicy RemoteSigned <Enter>
 Exit <Enter>`
 
-<ol>Download vSphere PowerCLI from the Download page of the VMware Web site and install the vSphere PowerCLI software. This is also available for other platforms</ol>
+Download vSphere PowerCLI from the Download page of the VMware Web site and install the vSphere PowerCLI software. This is also available for other platforms
 
 <t> Powershell - https://github.com/PowerShell/PowerShell </t>
+
 <t> PowerCLI - https://labs.vmware.com/flings/powercli-core </t>
 
 Usage
