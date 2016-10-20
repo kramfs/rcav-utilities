@@ -5,14 +5,14 @@ Prerequisite
 -------------
 - If running on Windows, set Powershell remote execution policy is enabled. Open a command prompt and type the following commands in sequence:
 
-`powershell <Enter>`
-`Set-ExecutionPolicy RemoteSigned <Enter>`
-`Exit <Enter>`
+`powershell <Enter>
+Set-ExecutionPolicy RemoteSigned <Enter>
+Exit <Enter>`
 
 - Download vSphere PowerCLI from the Download page of the VMware Web site and install the vSphere PowerCLI software. This is also available for other platforms:
 
-<li> Powershell - https://github.com/PowerShell/PowerShell
-PowerCLI - https://labs.vmware.com/flings/powercli-core
+<li> Powershell - https://github.com/PowerShell/PowerShell </li>
+<li> PowerCLI - https://labs.vmware.com/flings/powercli-core </li>
 
 Usage
 -------------
