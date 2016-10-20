@@ -18,6 +18,6 @@ Download vSphere PowerCLI from the Download page of the VMware Web site and inst
 Usage
 -------------
 
-`.\Create_RightScale_Role.ps1 -vCenter vCenterFQDNorIP -Username RS_Accountt -Domain AuthenticationDomain`
+`.\create_rightscale_role.ps1 -vCenter vCenterFQDNorIP -Username RS_Account -Domain AuthenticationDomain`
 
-`.\Create_RightScale_Role.ps1 -vCenter "vcenter.rightscale.local" -Username rightscale_user -Domain vsphere.local`
+`.\create_rightscale_role.ps1 -vCenter "vcenter.rightscale.local" -Username rightscale_user -Domain vsphere.local`
