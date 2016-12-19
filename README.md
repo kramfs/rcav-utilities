@@ -1,7 +1,7 @@
 PowerCLI script to create the Role RightScaleRole and the minimum permissions for RCAV to work with vCenter per the requirements in http://docs.rightscale.com/rcav/v2.0/rcav_prepare_vsphere_environment.html#vcenter-access-requirements-create-a-rightscale-role
 
 
-Prerequisite
+Prerequisites
 -------------
 If running on Windows, set Powershell remote execution policy is enabled. Open a command prompt and type the following commands in sequence:
 
@@ -16,6 +16,8 @@ Download vSphere PowerCLI from the Download page of the VMware Web site and inst
 <t> Powershell - https://github.com/PowerShell/PowerShell </t>
 
 <t> PowerCLI - https://labs.vmware.com/flings/powercli-core </t>
+
+And lastly, a non-admin user in vCenter i.e. rightscale_user
 
 Usage
 -------------
